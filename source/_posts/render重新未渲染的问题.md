@@ -1,7 +1,7 @@
 ---
 title: 'render重新未渲染的问题'
 date: 2018-04-25 11:24:57
-tags: 'loadAnalysis'
+tags: 'react'
 ---
 
 #### 问题描述
