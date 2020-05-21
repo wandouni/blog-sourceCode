@@ -57,8 +57,11 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-tag_map:
-
+tag_map: 
+   hexo: hexo
+   github page: github page
+   antd: antd
+   js: js
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
